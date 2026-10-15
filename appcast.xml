@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 0.7.0</title>
+      <pubDate>Wed, 14 Oct 2026 22:46:41 -0500</pubDate>
+      <sparkle:version>700</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Nueva sección Rendimiento</li><li>Ítems de inicio: quita o vuelve a poner las apps que se abren al iniciar sesión</li><li>Agentes en segundo plano: activa o desactiva actualizadores y ayudantes de las apps, sin borrar nada</li><li>Agentes rotos: detecta los que apuntan a programas que ya no existen</li><li>Mantenimiento: caché de DNS, memoria, instantáneas de Time Machine, lista Abrir con y Spotlight</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v0.7.0/Cleany-0.7.0.dmg" type="application/octet-stream" sparkle:edSignature="gNYT8YjalfSlwcDPchQmCZSqmhQ8l/Q+PBvrM5yQOvQ8eBRsrMB9eBbSLX/h7lv21af0kHyMhmILwim3cHydAw==" length="4056264" />
+    </item>
+    <item>
       <title>Versión 0.6.0</title>
       <pubDate>Wed, 14 Oct 2026 22:29:55 -0500</pubDate>
       <sparkle:version>600</sparkle:version>
