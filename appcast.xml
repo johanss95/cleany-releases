@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 0.8.0</title>
+      <pubDate>Wed, 14 Oct 2026 23:03:35 -0500</pubDate>
+      <sparkle:version>800</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Nueva sección Mis estorbos</li><li>Archivos grandes y antiguos: 100 MB o más, por tipo, marcando los que no abres en 6 meses</li><li>Duplicados: archivos idénticos con selección automática que siempre conserva una copia</li><li>Vista previa rápida de cada archivo</li><li>No descarga nada de iCloud ni toca la biblioteca de Fotos</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v0.8.0/Cleany-0.8.0.dmg" type="application/octet-stream" sparkle:edSignature="3NyIFuJFQSs9km5y56S728jx7M5Zp6QtAS5Kkyzd62QM+sgjcOosyA9HxzpM85rp8JW7bnzYIQpxa/XfbL65Bw==" length="4209820" />
+    </item>
+    <item>
       <title>Versión 0.7.0</title>
       <pubDate>Wed, 14 Oct 2026 22:46:41 -0500</pubDate>
       <sparkle:version>700</sparkle:version>
