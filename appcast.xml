@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 1.2.3</title>
+      <pubDate>Thu, 15 Oct 2026 00:37:48 -0500</pubDate>
+      <sparkle:version>10203</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Corregido: desinstalar apps de la App Store fallaba por permisos</li><li>ahora Cleany le pide al Finder que las mueva a la Papelera y macOS te pide la contraseña, como al arrastrarlas</li><li>Mensajes más claros si falta el permiso de Automatización o el Acceso total al disco</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v1.2.3/Cleany-1.2.3.dmg" type="application/octet-stream" sparkle:edSignature="zx4vXGSGFhlzOxO5c9ug8ODjX2JWEmU4XDiIdnPZzQmVycL3BbGQedgSosUU53wc4nE+4nDjIDjaz9bO/31UCg==" length="6736287" />
+    </item>
+    <item>
       <title>Versión 1.2.2</title>
       <pubDate>Thu, 15 Oct 2026 00:24:44 -0500</pubDate>
       <sparkle:version>10202</sparkle:version>
