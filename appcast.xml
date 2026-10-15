@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 1.1.0</title>
+      <pubDate>Wed, 14 Oct 2026 23:38:20 -0500</pubDate>
+      <sparkle:version>10100</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Icono de Cleany en la barra de menús: disco, memoria, CPU, batería y Papelera de un vistazo</li><li>Libera memoria y vacía la Papelera desde el panel</li><li>Se activa en Ajustes y se abre al iniciar sesión, aunque cierres Cleany</li><li>Avisos opcionales si queda poco espacio o la memoria se satura</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v1.1.0/Cleany-1.1.0.dmg" type="application/octet-stream" sparkle:edSignature="PB2PrDai5YW2GSce+wYG7EePimr1iyVpGd0Tf3oakPCt12+Par6Ix63JewWhBLUXuqbh0Q92zkS1pwTVLU3EDw==" length="6695466" />
+    </item>
+    <item>
       <title>Versión 1.0.0</title>
       <pubDate>Wed, 14 Oct 2026 23:20:48 -0500</pubDate>
       <sparkle:version>10000</sparkle:version>
