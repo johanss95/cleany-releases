@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 1.2.1</title>
+      <pubDate>Thu, 15 Oct 2026 00:17:56 -0500</pubDate>
+      <sparkle:version>10201</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Corregido: tras actualizar, el icono de la barra de menús seguía con la versión anterior</li><li>ahora Cleany lo reinicia solo</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v1.2.1/Cleany-1.2.1.dmg" type="application/octet-stream" sparkle:edSignature="CjUx9Sv1MShZq+EkGxbD7YV9LDs5JtBKWm7j1a5Rg4BA5BsUJmeLrYTWXfmBdHlyv+baIKPJ9jXceT+3j3jHAA==" length="6725930" />
+    </item>
+    <item>
       <title>Versión 1.2.0</title>
       <pubDate>Thu, 15 Oct 2026 00:12:26 -0500</pubDate>
       <sparkle:version>10200</sparkle:version>
