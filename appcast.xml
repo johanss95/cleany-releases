@@ -9,7 +9,7 @@
       <sparkle:version>501</sparkle:version>
       <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Versión de prueba del actualizador: si ves esto, Cleany se actualizó sola</li></ul>]]></description>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Versión de prueba del actualizador: si ves esto, Cleany se actualizó sola</li></ul>]]></description>
       <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v0.5.1/Cleany-0.5.1.dmg" type="application/octet-stream" sparkle:edSignature="OFUpHT0sL5wudzAiHA/w++s/PXgMUQTqdLFLFl7/+dFN2uHCrTECQ8PZF9IyhuEVoCOZP+Lps9Mp14E4bRQKAQ==" length="2178169" />
     </item>
     <item>
@@ -18,7 +18,7 @@
       <sparkle:version>500</sparkle:version>
       <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Actualizaciones automáticas: Cleany avisa cuando hay una versión nueva y se instala sola</li><li>Firma estable: el Acceso total al disco se conserva al actualizar</li></ul>]]></description>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Actualizaciones automáticas: Cleany avisa cuando hay una versión nueva y se instala sola</li><li>Firma estable: el Acceso total al disco se conserva al actualizar</li></ul>]]></description>
       <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v0.5.0/Cleany-0.5.0.dmg" type="application/octet-stream" sparkle:edSignature="htiCWhfHXli9qK9SP+fMCGIxk4LL+hLJRfuObtZ+VVtIyC0iPJ5EArRTkRMowaXHjuAP6LJhT9VK7zkYG3GYBA==" length="2177721" />
     </item>
   </channel>
