@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 0.5.2</title>
+      <pubDate>Wed, 14 Oct 2026 21:00:41 -0500</pubDate>
+      <sparkle:version>502</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Icono propio de Cleany: destellos blancos sobre los colores de las tres secciones</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v0.5.2/Cleany-0.5.2.dmg" type="application/octet-stream" sparkle:edSignature="A8JZIbm0U0tB53cGIMuVK5LSaCsNSStluU/z47UvrkxtNEosM412oafzVhbBDkKcvMuG0fX6XWiFoO2nY9iBAQ==" length="3883146" />
+    </item>
+    <item>
       <title>Versión 0.5.1</title>
       <pubDate>Wed, 14 Oct 2026 20:44:25 -0500</pubDate>
       <sparkle:version>501</sparkle:version>
