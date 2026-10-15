@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 1.1.1</title>
+      <pubDate>Wed, 14 Oct 2026 23:45:41 -0500</pubDate>
+      <sparkle:version>10101</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Corregido: el interruptor «Icono en la barra de menús» de Ajustes no respondía</li><li>Si macOS no permite activar el icono, ahora se muestra el motivo</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v1.1.1/Cleany-1.1.1.dmg" type="application/octet-stream" sparkle:edSignature="OFHhGrlZgDRf3CYuKrXt2JXfr9NpqA5pmcmrlVWDCjaj/3PaFVRG/Mwa8R29h2pjXOg8evuR0QPPTpUIcahQDA==" length="6694294" />
+    </item>
+    <item>
       <title>Versión 1.1.0</title>
       <pubDate>Wed, 14 Oct 2026 23:38:20 -0500</pubDate>
       <sparkle:version>10100</sparkle:version>
