@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 1.2.0</title>
+      <pubDate>Thu, 15 Oct 2026 00:12:26 -0500</pubDate>
+      <sparkle:version>10200</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Nueva sección Mis herramientas, encima del Historial</li><li>Modo de limpieza de pantalla: pantalla en negro con teclado y trackpad bloqueados, sales con ⌘Esc o sale solo a los 2 minutos</li><li>También en el icono de la barra de menús</li><li>Recordatorio opcional cada 2 semanas para limpiar la pantalla</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v1.2.0/Cleany-1.2.0.dmg" type="application/octet-stream" sparkle:edSignature="X9ICXese2lQ9z/2CqPRsBYvfy8qiXqRBHbjEkWzxTkorcIGpcovGBoi+UanWdu56jVw1kZZ+PN6Vz/LMNEpoBg==" length="6725309" />
+    </item>
+    <item>
       <title>Versión 1.1.1</title>
       <pubDate>Wed, 14 Oct 2026 23:45:41 -0500</pubDate>
       <sparkle:version>10101</sparkle:version>
