@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 0.5.1</title>
+      <pubDate>Wed, 14 Oct 2026 20:44:25 -0500</pubDate>
+      <sparkle:version>501</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Versión de prueba del actualizador: si ves esto, Cleany se actualizó sola</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v0.5.1/Cleany-0.5.1.dmg" type="application/octet-stream" sparkle:edSignature="OFUpHT0sL5wudzAiHA/w++s/PXgMUQTqdLFLFl7/+dFN2uHCrTECQ8PZF9IyhuEVoCOZP+Lps9Mp14E4bRQKAQ==" length="2178169" />
+    </item>
+    <item>
       <title>Versión 0.5.0</title>
       <pubDate>Wed, 14 Oct 2026 20:43:12 -0500</pubDate>
       <sparkle:version>500</sparkle:version>
