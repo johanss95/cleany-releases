@@ -4,6 +4,15 @@
     <title>Cleany</title>
     <language>es</language>
     <item>
+      <title>Versión 0.6.0</title>
+      <pubDate>Wed, 14 Oct 2026 22:29:55 -0500</pubDate>
+      <sparkle:version>600</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system;margin:10px}li{margin:4px 0}</style><ul><li>Basura de IA: cachés, registros y versiones antiguas de Claude Code, Codex, Antigravity y otras herramientas (nunca conversaciones ni configuración)</li><li>Modelos de IA locales (Ollama, LM Studio, Hugging Face) en una categoría aparte</li><li>Instaladores (.dmg, .pkg) olvidados en Descargas y el Escritorio</li><li>Descargas sin usar en 30 días, siempre para revisar</li><li>Basura de desarrollo: además de Xcode, cachés de npm, uv y otras herramientas</li><li>Mejor aviso de apps abiertas, también por nombre de carpeta y por proceso</li></ul>]]></description>
+      <enclosure url="https://github.com/johanss95/cleany-releases/releases/download/v0.6.0/Cleany-0.6.0.dmg" type="application/octet-stream" sparkle:edSignature="9tvVg6KION+T+B5uvFxZhBnt+Pp66e//Yggpwt/s+fMx5zYvFzTSGwR2kZrZVXEVxJ6A/BAReISoOwuyZMm3CA==" length="3909127" />
+    </item>
+    <item>
       <title>Versión 0.5.2</title>
       <pubDate>Wed, 14 Oct 2026 21:00:41 -0500</pubDate>
       <sparkle:version>502</sparkle:version>
